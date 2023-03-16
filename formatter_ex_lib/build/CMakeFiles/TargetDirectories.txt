@@ -1,0 +1,6 @@
+/Users/mongilyov/lab03/formatter_ex_lib/build/CMakeFiles/formatter_ex.dir
+/Users/mongilyov/lab03/formatter_ex_lib/build/CMakeFiles/edit_cache.dir
+/Users/mongilyov/lab03/formatter_ex_lib/build/CMakeFiles/rebuild_cache.dir
+/Users/mongilyov/lab03/formatter_ex_lib/build/formatter/CMakeFiles/formatter.dir
+/Users/mongilyov/lab03/formatter_ex_lib/build/formatter/CMakeFiles/edit_cache.dir
+/Users/mongilyov/lab03/formatter_ex_lib/build/formatter/CMakeFiles/rebuild_cache.dir
